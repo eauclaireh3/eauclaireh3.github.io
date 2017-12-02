@@ -1,2 +1,7 @@
-# eauclaireh3.github.io
-Eau Claire H3 Website
+* Home
+* About Us
+* Weekly Hashes
+* Upcoming Events
+* Photos
+* Videos
+* Contact
