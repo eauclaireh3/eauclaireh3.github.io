@@ -19,3 +19,5 @@ Each Friday we gather is a routine but unique experience! When the runners retur
 Come and check us out!
 
 #onon #ECH3
+
+![ABOUT US IMAGE](about_us.png)
