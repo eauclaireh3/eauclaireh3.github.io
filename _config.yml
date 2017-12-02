@@ -1,4 +1,33 @@
 theme: jekyll-theme-time-machine
 title: Eau Claire Hash House Harriers
+subtitle: Sociably Running in the Chippewa Valley Since 2014
 description: Sociably Running in the Chippewa Valley Since 2014
 show_downloads: false
+
+
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: http://automateddeveloper.blogspot.com/
+ - title: GitHub
+   url: https://github.com/robhinds
+ - title: StackOverflow
+   url: http://stackoverflow.com/users/258813/rhinds
+ - title: DZone
+   url: https://dzone.com/users/899489/rhinds.html
+ - title: LinkedIn
+   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+
+#Any buzzword skills you want to include
+skills:
+ - Groovy
+ - Spring MVC
+ - Spring Boot
+ - Gradle
+ - Java
+ - JPA
+ - SQL
+ - REST
+- Tech Architecture
