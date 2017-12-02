@@ -6,4 +6,4 @@
 * [Upcoming Events](upcoming_events.html)
 * Photos
 * Videos
-* [Contact](context.html)
+* [Contact](contact.html)
