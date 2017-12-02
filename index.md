@@ -1,3 +1,4 @@
+![HASH HOUSE HARRIERS SPLASH INAGE](index.png)
 * [Home](index.html)
 * [About Us](about_us.html)
   * [Hashing 101](hashing_101.html)
