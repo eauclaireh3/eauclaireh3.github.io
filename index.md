@@ -1,4 +1,4 @@
-* Home
+* [Home](index.html)
 * [About Us](about_us.html)
   * [Hashing 101](hashing_101.html)
   * [Our Mission](our_mission.html)
