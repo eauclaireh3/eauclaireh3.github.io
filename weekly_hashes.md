@@ -6,24 +6,24 @@ Just show up ready to run (or walk, or just hang out) at the weekly bar.  We has
 ## LAZY MONK BREWING
 * 1st Friday of the Month
 * Special: $1 off first beer
-![LAZY MONK LOCATION IMAGE](weekly_hashes_week_1.png)
+* ![LAZY MONK LOCATION IMAGE](weekly_hashes_week_1.png)
 
 ## DOOLEY'S PUB
 * 2nd Friday of the Month
 * Special: 1/2 off appetizers
-![DOOLEY'S PUB LOCATION IMAGE](weekly_hashes_week_2.png)
+* ![DOOLEY'S PUB LOCATION IMAGE](weekly_hashes_week_2.png)
 
 ## WAGNER'S LANES / THE COMPLEXX
 * 3rd Friday of the Month
 * Special: Free pizza with every 6 hashers
-![WAGNER'S / COMPLEXX LOCATION IMAGE](weekly_hashes_week_3.png)
+* ![WAGNER'S / COMPLEXX LOCATION IMAGE](weekly_hashes_week_3.png)
 
 ## THE MOUSE TRAP
 * 4th Friday of the Month
 * Special: $1 off all domestic beers
-![MOUSE TRAP LOCATION IMAGE](weekly_hashes_week_4.png)
+* ![MOUSE TRAP LOCATION IMAGE](weekly_hashes_week_4.png)
 
 ## "Mystery" Bar
 * 5th Friday of the Month
 * Location determined through popular vote on Facebook during preceding week. Hash route determined by individual that suggested winning bar.
-![MYSTERY BAR IMAGE](weekly_hashes_week_5.png)
+* ![MYSTERY BAR IMAGE](weekly_hashes_week_5.png)
