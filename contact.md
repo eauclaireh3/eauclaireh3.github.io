@@ -6,3 +6,5 @@
   * [Page](https://www.facebook.com/groups/257995994370383/)
 * Twitter
   * [Account](https://twitter.com/EauClaireHHH)
+* Github
+  * [Account](https://github.com/eauclaireh3)
