@@ -14,5 +14,5 @@
   * [2015 Beer Mile](/photos/2015_beer_mile/gallery.html)
 * 2014
   * [2014 Beer Mile](/photos/2014_beer_mile/gallery.html)
-* [Cliffs And Beer](/photos/cliffs_and_beer.html)
-* [Hash House Fun!](/photos/hash_house_fun.html)
+* [Cliffs And Beer](/photos/cliffs_and_beer/gallery.html)
+* [Hash House Fun!](/photos/hash_house_fun/gallery.html)
