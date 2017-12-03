@@ -61,3 +61,11 @@
   * [2017 Beer Mile: Finishers pt. 1](https://www.facebook.com/ddrescher1/videos/pcb.740225856147392/10158869179245234/?type=3&theater)
   * [2017 Beer Mile: Finishers pt. 2](https://www.facebook.com/ddrescher1/videos/pcb.740225856147392/10158869181370234/?type=3&theater)
   * [2017 Beer Mile: Finishers pt. 3](https://www.facebook.com/ddrescher1/videos/pcb.740225856147392/10158869184480234/?type=3&theater)
+
+## Red Dress Runs
+
+* [The Conga Line](https://www.facebook.com/margie.p.thornton/videos/10202020148660828/)
+
+## Hash House Fun
+
+* [Stones Throw Dance Party 1](https://www.facebook.com/theresa.jo.96/videos/10101343513560446/)
