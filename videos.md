@@ -37,3 +37,27 @@
 * [Easy As Throwing a Spear](https://www.facebook.com/ploenzke/videos/10109620420307520/)
 * [Two Birds Stoned At Once](https://www.facebook.com/TimMcManus8/videos/10155502743329434/)
 * [A Walk in the Woods](https://www.facebook.com/melanie.r.mcmanus/videos/10156348384908677/)
+* [Carson Park Training 1](https://www.facebook.com/elecia.oleson/videos/1404054612974221/)
+* [Carson Park Training 2](https://www.facebook.com/elecia.oleson/videos/1404533012926381/)
+* [Carson Park Training 3](https://www.facebook.com/TimMcManus8/videos/10155474384114434/)
+* [Porta Potty Practice](https://www.facebook.com/elecia.oleson/videos/1426304900749192/)
+* [Biker Gang](https://www.facebook.com/melanie.r.mcmanus/videos/10156355789093677/)
+* [The Reveal](https://www.facebook.com/elecia.oleson/videos/1420991411280541/)
+* [Dancing Queen](https://www.facebook.com/elecia.oleson/videos/1367791769933839/)
+* [Don't Forget!](https://www.facebook.com/TimMcManus8/videos/10155311560754434/)
+* [Gone Fishing](https://www.facebook.com/elecia.oleson/videos/1434519579927724/)
+* [Catch That Frisbee](https://www.facebook.com/TimMcManus8/videos/10155534920899434/)
+* [2017 Beer Mile: Here We Go!](https://www.facebook.com/TimMcManus8/videos/10155557361039434/)
+
+## Beer Miles
+
+* 2014
+  * [2014 Start](https://www.facebook.com/beth.schulze/videos/10154419151735713/)
+* 2015
+* 2016
+  * [2016 Heat 1 Start](https://www.facebook.com/stephanie.walczak.7/videos/10208401641473044/)
+* 2017
+  * [2017 Beer Mile: Start](https://www.facebook.com/ddrescher1/videos/10158869178870234/)
+  * [2017 Beer Mile: Finishers pt. 1](https://www.facebook.com/ddrescher1/videos/pcb.740225856147392/10158869179245234/?type=3&theater)
+  * [2017 Beer Mile: Finishers pt. 2](https://www.facebook.com/ddrescher1/videos/pcb.740225856147392/10158869181370234/?type=3&theater)
+  * [2017 Beer Mile: Finishers pt. 3](https://www.facebook.com/ddrescher1/videos/pcb.740225856147392/10158869184480234/?type=3&theater)
