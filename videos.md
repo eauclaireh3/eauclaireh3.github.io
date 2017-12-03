@@ -54,6 +54,10 @@
 * 2014
   * [2014 Start](https://www.facebook.com/beth.schulze/videos/10154419151735713/)
 * 2015
+  * 2015 Start
+  * 2015 Mid-Race 1
+  * 2015 Mid-Race 2
+  * 2015 Mid-Race 3
 * 2016
   * [2016 Heat 1 Start](https://www.facebook.com/stephanie.walczak.7/videos/10208401641473044/)
 * 2017
